@@ -1,3 +1,9 @@
+/*
+ *Author: Diego Perez
+ISU Netid : joceo@iastate.edu
+Date : Oct 22nd, 2023
+ *
+ */
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { UserCard } from "./UserCards.js";
